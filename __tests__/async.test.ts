@@ -1,7 +1,7 @@
 import { complianceTestsAsync } from "@keeveestore/test-suite";
 import { StoreAsync } from "../src/async";
 
-complianceTestsAsync(new StoreAsync<string, string>(32), {
+complianceTestsAsync(() => StoreAsync.new<string, string>(32), {
 	key1: "value1",
 	key2: "value2",
 	key3: "value3",
