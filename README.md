@@ -6,7 +6,7 @@
 [![Node Engine](https://badgen.now.sh/npm/node/@keeveestore/lru-map)](https://www.npmjs.com/package/@keeveestore/lru-map)
 [![Build Status](https://badgen.now.sh/circleci/github/keeveestore/lru-map)](https://circleci.com/gh/keeveestore/lru-map)
 [![Codecov](https://badgen.now.sh/codecov/c/github/keeveestore/lru-map)](https://codecov.io/gh/keeveestore/lru-map)
-[![License: MPL-2.0](https://badgen.now.sh/badge/license/MPL-2.0/green)](https://mozilla.org/MPL/2.0/)
+[![License: MPL-2.0](https://badgen.now.sh/badge/license/MPL-2.0/green)](https://mozilla.org/MPL/2.0/) [![Greenkeeper badge](https://badges.greenkeeper.io/keeveestore/lru-map.svg)](https://greenkeeper.io/)
 
 ## Installation
 
